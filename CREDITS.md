@@ -13,6 +13,7 @@
 - @pancelor - Contributor
 - Pirijuamps - Contributor
 - @ragzouken - Contributor
+- @ribozone - Contributor
 - Samuel Fine - Contributor
 - Sean S. LeBlanc - Contributor
 - Zach Hixson - Contributor
@@ -21,8 +22,10 @@
 
 - Adam Le Doux
 - Claire Morwood
+- @liximi
 - Sean S. Le Blanc
 - @vaasut
+- @ZeppelinGames
 
 ## Icons
 
@@ -48,6 +51,7 @@
 - enui - Italian translation
 - Florencia Rumpel Rodriguez (@\_\_rumpel) - Spanish translation
 - Game Makers Iceland - Icelandic translation
+- @iamflea-livingbugs - Chinese translation
 - Kai Werder - German translation
 - leonid.codes - Ukrainian translation
 - Marco - Brazilian Portuguese translation
@@ -57,6 +61,7 @@
 - Onion - Russian translation
 - Paul Bid (павел бид) - Russian translation
 - Peter Februar - French translation
+- @plyr0 - Polish translation
 - Ray Song - Chinese translation
 - @scumslug - Estonian translation
 - Sequoia Edwards - Chinook translation
