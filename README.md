@@ -8,14 +8,10 @@ please check back in once bitsy 9 is released - thanks for your understanding!
 
 ---
 
-# bitsy
+# ¥enBitsy
 
-~ a little engine for little games, worlds, and stories ~
+~ a little engine for little games, worlds, and stories for ¥enPocket80 ~
 
-## make a game with bitsy
+## make a game with ¥enBitsy
 
-you can [make](https://make.bitsy.org) a game with bitsy right in your browser - get started at [bitsy.org](https://bitsy.org)!
-
-## bitsy around the net
-
-[bitsy.org](https://bitsy.org) | [itch.io](https://ledoux.itch.io/bitsy) | [mastodon](https://digipres.club/@bitsy)
+[Not available yet]
